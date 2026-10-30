@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "星骰深度解读工作台",
+  "short_name": "星骰深读",
+  "description": "掷骰、十二宫反推和分层占星解读",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1425",
+  "theme_color": "#0c1425",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
